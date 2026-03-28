@@ -1,0 +1,1 @@
+{"default":{"identifier":"default","description":"SF6 Frame Viewer default capabilities","local":true,"windows":["main"],"permissions":["core:default","core:window:allow-close","core:window:allow-start-dragging","shell:default",{"identifier":"http:default","allow":[{"url":"https://ultimateframedata.com/**"}]}]}}
